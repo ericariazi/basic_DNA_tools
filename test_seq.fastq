@@ -1,0 +1,14 @@
+@test sequence 1
+agttcacatgactgaactctg
++test sequence 1
+IIIIIIII9IGICIIIBIIII
+
+@test sequence 2
+atgagtaacaatgagttcacatgactgaactctg
++test sequence 2
+IIIIIIII9IGICIIIBIIII9IIIGICIBIIII
+
+@test sequence 3
+atgagtaacaatgagttcacatgactgaactctgtgtaca
++test sequence 3
+IIIIIIII9IGICIIIBIIII9IIIGICIBIIIIIBIIII
